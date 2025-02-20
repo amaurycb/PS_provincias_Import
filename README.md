@@ -29,7 +29,7 @@ Este script realiza lo siguiente:
                     host="your_host",      # Cambia por el host de tu base de datos
                     user="your_user",      # Cambia por tu usuario de la base de datos
                     password="your_password",  # Cambia por la contraseña de la base de datos
-                    database="mallhabana-produccion"  # Cambia por el nombre de la base de datos
+                    database="produccion"  # Cambia por el nombre de la base de datos
                 )`
 
 
